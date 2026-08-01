@@ -1,1 +1,5 @@
-exp no 1
+ls
+touch example.txt
+ls
+rm example5.txt
+ls
