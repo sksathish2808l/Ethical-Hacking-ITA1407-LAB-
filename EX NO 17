@@ -1,0 +1,4 @@
+ping -c 4 8.8.8.8
+traceroute 8.8.8.8
+ifconfig
+netstat -tuln
