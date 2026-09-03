@@ -1,0 +1,2 @@
+wireshark
+sudo tshark -i eth0 -c 20
