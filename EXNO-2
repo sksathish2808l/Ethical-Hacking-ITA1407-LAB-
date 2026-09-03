@@ -1,1 +1,5 @@
+echo "This is line 1" > sample.txt
+echo "This is line 2" >> sample.txt
+echo "This is line 3" >> sample.txt
 
+less sample.txt
