@@ -1,0 +1,2 @@
+whois example.com
+google-chrome "https://www.google.com/search?q=example.com"
