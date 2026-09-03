@@ -1,0 +1,8 @@
+free -h
+
+
+printf "Mango\nApple\nBanana\nOrange\n" > fruits.txt
+sort fruits.txt
+
+
+history
